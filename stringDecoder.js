@@ -12,3 +12,4 @@ const decoder = code => {
     return result
 }
 console.log(decoder("2jgR1ko2yis0e"))
+// It will read "Rose"
